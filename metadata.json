@@ -1,0 +1,6 @@
+{
+  "name": "Nexus SaaS Landing Page",
+  "description": "A modern, responsive mockup of a SaaS landing page featuring clean design, pricing tiers, and a dark mode toggle.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
